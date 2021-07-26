@@ -1,6 +1,6 @@
 <img src="images/alelo_logo.png" width="200"></a>
 
-# Alelo Machine Learning Challenge
+# Machine Learning Challenge
 
 The project contains the code and analysis to machine learning challenge from Alelo.
 
@@ -43,6 +43,7 @@ The links are available in the notebooks.
     <img src="images/colab_logo.png" />Run in Google Colab</a>
   </td>
 </table>
+
 
 ### Docker
 
