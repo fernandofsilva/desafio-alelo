@@ -45,7 +45,7 @@ The links are available in the notebooks.
 
 After pull the image run the following command:
 
-    docker run -it --rm -p 8888:8888 alelo start.sh jupyter lab
+    docker run -it --rm -p 8888:8888 fernandofsilva/alelo start.sh jupyter lab
 
 The terminal will show the link to the jupyter server, as below:
 
