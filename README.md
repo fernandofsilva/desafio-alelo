@@ -38,11 +38,7 @@ Follow the instructions to run the codes:
 
 The links are available in the notebooks. 
 
-<table class="tfo-notebook-buttons" align="left">
-  <td>
-    <img src="images/colab_logo.png" />Run in Google Colab</a>
-  </td>
-</table>
+<img src="images/colab_logo.png" />Run in Google Colab</a>
 
 
 ### Docker
