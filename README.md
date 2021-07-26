@@ -28,7 +28,7 @@ Follow the instructions at [link](https://docs.docker.com/engine/install/).
 
 Then
 
-    docker pull fernandofsilva
+    docker pull fernandofsilva/alelo:latest
 
 ## Running
 
